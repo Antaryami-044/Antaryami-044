@@ -1,60 +1,70 @@
-# 👋 Hi, I'm Antaryami Sahu
+# 👋 Hey there, I'm Antaryami Sahu!
 
-I'm a passionate developer focused on building and learning, one line of code at a time. I enjoy turning creative ideas into functional and user-friendly web applications.
-
----
-
-### 🚀 My Tech Stack
-
-Here are a few technologies I've been working with recently:
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+Welcome to my corner of GitHub!  
+I'm a **self-driven developer and technology enthusiast** on a journey to build, break, learn, and create – one project at a time.
 
 ---
 
-### 🌱 I'm currently working on...
+### 🚀 What I Love Building
 
-* Enhancing my skills in full-stack web development.
-* Exploring modern JavaScript frameworks.
-* Building [**Mention a new project here, e.g., a "Task Management App"**].
+I enjoy working on:
+- **Web applications**: From clean UIs to problem-solving backends
+- **C++ and Python projects**: Tackling real-world challenges and hands-on algorithm practice
+- **Automation tricks and test code**: Because quality matters!
+- Tools that help myself and others learn, grow, or make daily life easier
 
 ---
 
-### 📫 How to reach me:
+### 🛠️ My Tech Toolbox
 
-You can connect with me on LinkedIn!
+- **Languages:** JavaScript, C++, Python
+- **Frameworks & Platforms:** React, Node.js, Express
+- **Dev Utilities:** Git, VS Code, GitHub Actions
+- **Learning:** Always experimenting with new stacks and approaches
 
-<p align="left">
-<a href="https://www.linkedin.com/in/antaryamisahu8156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="antaryamisahu8156" height="30" width="40" /></a>
-</p>
+---
 
-<!--
-**Antaryami-044/Antaryami-044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently Exploring
 
-Here are some ideas to get you started:
+- Leveling up my **full-stack web dev** skills
+- Modern JavaScript frameworks
+- Building a new (TBA!) project for learning and fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Some Code Things I'm Proud Of
+
+- [cege](https://github.com/Antaryami-044/cege): Academic and practice-focused code
+- [ColdDrinks-website](https://github.com/Antaryami-044/ColdDrinks-website): Simple web projects and design experiments
+- [Unit-Converter](https://github.com/Antaryami-044/Unit-Converter): A handy utility for everyone!
+- [Cpp-Files](https://github.com/Antaryami-044/Cpp-Files): C++ learning and algorithm practice
+- [Python](https://github.com/Antaryami-044/Python): My Python playground
+- [Hands-on-practice](https://github.com/Antaryami-044/Hands-on-practice): Keeping my skills sharp
+
+---
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156) – Let’s network!
+- Email: _You can message me on LinkedIn for collaboration or questions._
+
+---
+
+### ☕ About Me
+
+- Lifelong learner – always curious!
+- I like tackling challenges, debugging the “impossible,” and seeing ideas become code.
+- Open to teamwork, code reviews, new opportunities and cool side projects.
+- I believe every line of code is a chance to improve – for myself and for others.
+
+---
+
+### 📊 GitHub Stats
+
+![Antaryami-044's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&hide_title=true&count_private=true)
+
+---
+
+Thanks for stopping by my GitHub profile!  
+**Let's build something awesome together.**
+
