@@ -28,7 +28,7 @@ I enjoy working on:
 
 - Leveling up my **full-stack web dev** skills
 - Modern JavaScript frameworks
-- Building a new (TBA!) project for learning and fun
+- Building a new project for learning and fun
 
 ---
 
