@@ -1,70 +1,62 @@
-# 👋 Hey there, I'm Antaryami Sahu!
+# 👋 Hello, I'm Antaryami Sahu!
 
-Welcome to my corner of GitHub!  
-I'm a **self-driven developer and technology enthusiast** on a journey to build, break, learn, and create – one project at a time.
+### **Full-Stack Developer | React Specialist | UI/UX Enthusiast**
 
----
-
-### 🚀 What I Love Building
-
-I enjoy working on:
-- **Web applications**: From clean UIs to problem-solving backends
-- **C++ and Python projects**: Tackling real-world challenges and hands-on algorithm practice
-- **Automation tricks and test code**: Because quality matters!
-- Tools that help myself and others learn, grow, or make daily life easier
+Welcome to my GitHub space! I'm a technology enthusiast and front-end developer dedicated to building beautiful, interactive, and highly scalable web experiences. I thrive on turning complex ideas into clean, functional code, one project at a time.
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🚀 Core Focus & Expertise
 
-- **Languages:** JavaScript, C++, Python
-- **Frameworks & Platforms:** React, Node.js, Express
-- **Dev Utilities:** Git, VS Code, GitHub Actions
-- **Learning:** Always experimenting with new stacks and approaches
+My passion lies in crafting user-friendly applications that are delightful to use. I am committed to writing clean, accessible, and maintainable code across the stack.
 
----
-
-### 🌱 Currently Exploring
-
-- Leveling up my **full-stack web dev** skills
-- Modern JavaScript frameworks
-- Building a new project for learning and fun
+| Area of Focus | Key Technologies |
+| :--- | :--- |
+| **Frontend Development** | **React**, JavaScript, HTML5, CSS3, Modern JS |
+| **Backend & Databases** | Node.js, Express, (Currently strengthening MongoDB) |
+| **Programming & Tools** | C++, Python, VS Code, Git/GitHub, GitHub Actions |
+| **Testing & Quality** | Jest, Writing smart test code, Practical utilities |
 
 ---
 
-### ✨ Some Code Things I'm Proud Of
+### ✨ Notable Projects
 
-- [cege](https://github.com/Antaryami-044/cege): Academic and practice-focused code
-- [ColdDrinks-website](https://github.com/Antaryami-044/ColdDrinks-website): Simple web projects and design experiments
-- [Unit-Converter](https://github.com/Antaryami-044/Unit-Converter): A handy utility for everyone!
-- [Cpp-Files](https://github.com/Antaryami-044/Cpp-Files): C++ learning and algorithm practice
-- [Python](https://github.com/Antaryami-044/Python): My Python playground
-- [Hands-on-practice](https://github.com/Antaryami-044/Hands-on-practice): Keeping my skills sharp
+Here are a few projects that showcase my range and continuous learning:
 
----
-
-### 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156) – Let’s network!
-- Email: _You can message me on LinkedIn for collaboration or questions._
+| Project Name | Description | Focus |
+| :--- | :--- | :--- |
+| **ColdDrinks-website** | Creative front-end project and fun design experiments demonstrating modern CSS and responsive UI. | UI/UX, Frontend Design |
+| **Unit-Converter** | A practical utility built with usability in mind, showcasing strong JavaScript logic and accessibility. | Utility Development, JS Logic |
+| **Cpp-Files** | Hands-on practice with C++ programming, algorithms, and fundamental data structure concepts. | C++, Algorithms |
+| **Python Scripts** | Various Python scripts and experiments for learning, automation, and general problem-solving. | Python, Automation |
+| **Hands-on-practice** | Collection of projects to keep coding skills sharp and tackle various problem-solving exercises. | Problem-Solving, Skill Refinement |
 
 ---
 
-### ☕ About Me
+### 🌱 I'm Always Learning
 
-- Lifelong learner – always curious!
-- I like tackling challenges, debugging the “impossible,” and seeing ideas become code.
-- Open to teamwork, code reviews, new opportunities and cool side projects.
-- I believe every line of code is a chance to improve – for myself and for others.
+I believe in continuous improvement and actively explore ways to enhance my craft:
 
----
-
-### 📊 GitHub Stats
-
-![Antaryami-044's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&hide_title=true&count_private=true)
+* **Deepening Full-Stack Proficiency:** Building out robust, real-world projects with Node.js and MongoDB to achieve true full-stack capability.
+* **Advanced React Patterns:** Diving deeper into state management, performance optimization, and custom hooks.
+* **User Experience:** Exploring new ways to make user interfaces smoother and more engaging for all users.
 
 ---
 
-Thanks for stopping by my GitHub profile!  
-**Let's build something awesome together.**
+### 📫 Let's Connect
 
+I genuinely enjoy teamwork, sharing knowledge, and constructive code reviews. Let’s connect, share ideas, and build something awesome together!
+
+| Contact Channel | Link / Handle |
+| :--- | :--- |
+| **GitHub Profile** | [Antaryami-044](https://github.com/Antaryami-044) |
+| **LinkedIn** | [Connect with me!](https://www.linkedin.com/in/antaryamisahu8156/)  |
+| **Email** | Reach out via LinkedIn for collaboration opportunities. |
+
+<br>
+
+**📊 GitHub Stats**
+*![Antaryami-044's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&hide_title=true&count_private=true)*
+
+---
+*Thanks for checking out my profile! Every project is a step closer to making technology work better for everyone.*
