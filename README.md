@@ -55,8 +55,5 @@ I genuinely enjoy teamwork, sharing knowledge, and constructive code reviews. Le
 
 <br>
 
-**📊 GitHub Stats**
-*![Antaryami-044's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&hide_title=true&count_private=true)*
-
 ---
 *Thanks for checking out my profile! Every project is a step closer to making technology work better for everyone.*
