@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antaryami Sahu</h1>
 <h3 align="center">B.Tech Final Year Student | Graduating 2026 | Full-Stack Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Antaryami-044&label=Profile%20views&color=0e75b6&style=flat-square" alt="Antaryami-044" />
-</p>
+</p> -->
 
 ---
 
