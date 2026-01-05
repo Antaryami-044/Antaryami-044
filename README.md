@@ -1,59 +1,71 @@
-# 👋 Hello, I'm Antaryami Sahu!
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Antaryami Sahu!</h1>
 
-### **Full-Stack Developer | React Specialist | UI/UX Enthusiast**
+<h3 align="center">🎓 B.Tech Final Year Student | Class of 2026 | Full-Stack Developer</h3>
 
-Welcome to my GitHub space! I'm a technology enthusiast and front-end developer dedicated to building beautiful, interactive, and highly scalable web experiences. I thrive on turning complex ideas into clean, functional code, one project at a time.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Antaryami-044&label=Profile%20views&color=0e75b6&style=flat-square" alt="Antaryami-044" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Antaryami-044&theme=tokyonight" alt="Antaryami-044" /></a>
+</p>
+
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp3bm9ueXp3bm9ueXp3bm9ueXp3bm9ueXp3bm9ueXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+
+### 🚀 About Me
+- 🎓 **Education:** Final year B.Tech student, graduating in **3 months (2026)**.
+- 💻 **Core Focus:** Building high-performance web applications using **React** and **Modern JavaScript**.
+- 🛠️ **Current Goal:** Strengthening Backend systems with **Node.js** and **MongoDB**.
+- 🌱 **Learning:** Currently exploring **System Design** and **Cloud Deployment**.
+- 👯 **Collaboration:** I'm open to **Internships** and **Full-time SDE roles**.
 
 ---
 
-### 🚀 Core Focus & Expertise
-
-My passion lies in crafting user-friendly applications that are delightful to use. I am committed to writing clean, accessible, and maintainable code across the stack.
-
-| Area of Focus | Key Technologies |
-| :--- | :--- |
-| **Frontend Development** | **React**, JavaScript, HTML5, CSS3, Modern JS |
-| **Backend & Databases** | Node.js, Express, (Currently strengthening MongoDB) |
-| **Programming & Tools** | C++, Python, VS Code, Git/GitHub, GitHub Actions |
-| **Testing & Quality** | Jest, Writing smart test code, Practical utilities |
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### ✨ Notable Projects
-
-Here are a few projects that showcase my range and continuous learning:
-
-| Project Name | Description | Focus |
+### 📂 Featured Projects
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **ColdDrinks-website** | Creative front-end project and fun design experiments demonstrating modern CSS and responsive UI. | UI/UX, Frontend Design |
-| **Unit-Converter** | A practical utility built with usability in mind, showcasing strong JavaScript logic and accessibility. | Utility Development, JS Logic |
-| **Cpp-Files** | Hands-on practice with C++ programming, algorithms, and fundamental data structure concepts. | C++, Algorithms |
-| **Python Scripts** | Various Python scripts and experiments for learning, automation, and general problem-solving. | Python, Automation |
-| **Hands-on-practice** | Collection of projects to keep coding skills sharp and tackle various problem-solving exercises. | Problem-Solving, Skill Refinement |
+| **[ColdDrinks-Website](https://github.com/Antaryami-044/ColdDrinks-website)** | A creative e-commerce front-end with responsive UI. | HTML, CSS, JS |
+| **[Unit-Converter](https://github.com/Antaryami-044/Unit-Converter)** | A precision utility tool focusing on clean UI and JS logic. | JavaScript |
+| **[Cpp-Algorithms](https://github.com/Antaryami-044/Cpp-Files)** | Repository of Data Structures and Algorithm implementations. | C++ |
 
 ---
 
-### 🌱 I'm Always Learning
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Antaryami-044&theme=tokyonight" />
+</p>
 
-I believe in continuous improvement and actively explore ways to enhance my craft:
-
-* **Deepening Full-Stack Proficiency:** Building out robust, real-world projects with Node.js and MongoDB to achieve true full-stack capability.
-* **Advanced React Patterns:** Diving deeper into state management, performance optimization, and custom hooks.
-* **User Experience:** Exploring new ways to make user interfaces smoother and more engaging for all users.
-
----
-
-### 📫 Let's Connect
-
-I genuinely enjoy teamwork, sharing knowledge, and constructive code reviews. Let’s connect, share ideas, and build something awesome together!
-
-| Contact Channel | Link / Handle |
-| :--- | :--- |
-| **GitHub Profile** | [Antaryami-044](https://github.com/Antaryami-044) |
-| **LinkedIn** | [Connect with me!](https://www.linkedin.com/in/antaryamisahu8156/)  |
-| **Email** | Reach out via LinkedIn for collaboration opportunities. |
-
-<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antaryami-044&show_icons=true&theme=tokyonight&layout=compact" />
+  <img width="48%" height="195px" src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
 
 ---
-*Thanks for checking out my profile! Every project is a step closer to making technology work better for everyone.*
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/antaryamisahu8156/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Antaryami Sahu" /></a>
+<a href="mailto:antaryamisahu8156@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Antaryami Sahu" /></a>
+</p>
+
+<p align="center">
+  <i>"Passionate about creating clean code and meaningful user experiences."</i><br>
+  <b>Looking for 2026 Graduate Roles!</b>
+</p>
