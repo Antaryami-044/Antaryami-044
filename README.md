@@ -82,7 +82,7 @@ Seeking **Software Development Engineer (SDE)** roles for the **2026 batch**, es
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antaryami-044&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Antaryami-044&theme=radical&margin-w=6" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antaryami-044&theme=radical" width="98%" />
 </p>
 
 ---
