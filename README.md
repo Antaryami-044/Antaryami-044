@@ -1,90 +1,105 @@
-# 👋 Hi, I'm Antaryami Sahu
-
-🎓 **Final-year Computer Science student** at **NIST University** (CGPA: **8.52**), graduating **May 2026**  
-💼 **Aspiring Software Development Engineer (SDE)** | Backend & Full-Stack Focus
+# ⭐ Pinned Repository
+[![Paste App](https://github-readme-stats.vercel.app/api/pin/?username=Antaryami-044&repo=react-paste-app&theme=github_dark&border_radius=6)](https://github.com/Antaryami-044)
 
 ---
 
-## 🚀 About Me
+# Hi, I’m <ins>Antaryami Sahu</ins> 👋  
+### <sub>Final-Year CS Student • Aspiring Software Development Engineer</sub>
 
-I’m a motivated software developer who enjoys building **scalable backend systems**, **clean APIs**, and **user-focused web applications**. I like working close to real-world problems—turning ideas into reliable software through structured engineering and clean code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=700&color=38BDf8&width=420&lines=Software+Engineer;Full-Stack+Developer;Backend+Focused;Startup+Ready)](https://git.io/typing-svg)
 
-I thrive in **startup-like environments** where ownership, learning, and collaboration matter.
-
----
-
-## 🧩 What I Do Well
-
-- Design and build **RESTful APIs** and backend services  
-- Develop **full-stack web applications** with clean UI and strong logic  
-- Write **maintainable, readable, and scalable code**  
-- Solve problems with a **software engineering mindset**, not just syntax  
+[![GitHub Followers](https://img.shields.io/github/followers/Antaryami-044?label=Follow&style=social)](https://github.com/Antaryami-044)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Software Development Engineer | Full-Stack Developer
 
-### Languages & Frameworks
-- **Python** (FastAPI)
-- **JavaScript** (Node.js, Express.js)
-- **React.js**
-- **C++**
-- **Java (foundational)**
+- 🎓 **B.Tech Computer Science @ NIST University (2026)** — **CGPA: 8.52**
+- 🧠 Strong foundation in **DSA, SDLC, and backend system design**
+- ⚙️ Passionate about building **scalable APIs, automation tools, and clean UIs**
+- 🏆 **35th National Rank** — Vibe Coding Challenge (High-Performance SPA)
 
-### Tools & Databases
-- **MongoDB**, **MySQL**
-- **Git & GitHub**
-- **Postman**
-- **Linux**
-- **Figma**
+📫 **Contact**:  
+📧 [antaryamibabu1234@gmail.com](mailto:antaryamibabu1234@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156/)  
+💻 [GitHub](https://github.com/Antaryami-044)
 
 ---
 
-## 🏗️ Projects & Experience Highlights
+## 🛠️ Technical Skills
 
-- Built a **React + Node.js paste application** allowing users to create, view, share, and manage code snippets  
-- Developed an **AI Pipeline Builder** using graph-based workflows  
-- Created an **automation service** that reduced repetitive manual tasks by **40%**  
-- Designed and deployed **responsive, performance-focused web apps**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages & Frameworks
+<img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
+<img src="https://img.shields.io/badge/Express.js-333?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Databases & Tools
+<img src="https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Postman-333?style=flat-square&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=figma&logoColor=F24E1E"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 📌 Key Projects
 
-- 🥇 **National Rank 35** – Vibe Coding Challenge  
-  *(Recognized for building high-performance, scalable web solutions)*
+### 🔹 Paste App — Collaborative Snippet Manager
+- Built a full-stack app using **React, Node.js, Express, MongoDB**
+- Supports **create, view, share, and manage code snippets** with responsive UI  
+🔗 Live: https://react-paste-app.netlify.app/
+
+### 🔹 Invoice QC Automation Service
+- Automated invoice validation using **Python & FastAPI**
+- Reduced manual verification effort by **~40%**
+
+### 🔹 Interactive AI Pipeline Builder
+- Designed a node-based workflow editor using **React + FastAPI**
+- Applied **graph algorithms (DAG validation)** to ensure pipeline correctness
 
 ---
 
-## 🎯 Career Goal
+## 🏆 GitHub Achievements (Stable Trophy Service)
 
-Seeking **Software Development Engineer (SDE)** roles for the **2026 batch**, especially in **startup or product-based teams**, where I can contribute from day one and grow with the product.
-
----
-
-## 🌐 Connect With Me
-
-- **LinkedIn**: https://www.linkedin.com/in/antaryamisahu8156  
-- **GitHub**: https://github.com/Antaryami-044  
-- **Email**: mailto:antaryamibabu1234@gmail.com  
-- **X (Twitter)**: https://x.com/Antaryami_045  
-- **Instagram**: https://www.instagram.com/_antaryami_45  
-- **Facebook**: https://www.facebook.com/babu.muz.9
+![Trophies](https://github-profile-trophy.vercel.app/?username=Antaryami-044&theme=tokyonight&no-frame=true&row=1&margin-w=12)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&theme=radical" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Antaryami-044&theme=radical" width="48%" />
-</p>
+| 🔥 Streak | 📈 Stats |
+|---------|---------|
+| ![Streak](https://streak-stats.demolab.com?user=Antaryami-044&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&count_private=true&theme=tokyonight&hide=issues) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antaryami-044&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antaryami-044&theme=radical" width="98%" />
-</p>
+| 🌐 Languages | 🧩 Profile Summary |
+|-------------|------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antaryami-044&layout=compact&theme=tokyonight) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antaryami-044&theme=tokyonight) |
 
 ---
 
-<p align="center"><i>"Focused on building reliable software, one clean commit at a time."</i></p>
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-squircle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antaryamisahu8156/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-squircle&logo=gmail&logoColor=white)](mailto:antaryamibabu1234@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-squircle&logo=github&logoColor=white)](https://github.com/Antaryami-044)
+
+---
+
+> *Focused on writing clean, scalable code and building real-world software that delivers impact.*
