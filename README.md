@@ -77,9 +77,6 @@
 ---
 
 ## 🏆 GitHub Achievements (Stable Trophy Service)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Antaryami-044&theme=tokyonight&no-frame=true&row=1&margin-w=12)
-
 ---
 
 ## 📊 GitHub Stats
