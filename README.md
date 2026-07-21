@@ -1,57 +1,59 @@
-# ⭐ Pinned Repository
-[![Paste App](https://github-readme-stats.vercel.app/api/pin/?username=Antaryami-044&repo=react-paste-app&theme=github_dark&border_radius=6)](https://github.com/Antaryami-044)
+<div align="center">
+
+# Hi 👋, I'm Antaryami Sahu
+### Full Stack Developer & Backend Systems Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=1000&color=38BDF8&width=500&lines=Full+Stack+Developer;Node.js+%26+Python+Engineer;Scalable+API+Architect;Global+Rank+10%2C769+@+CodeVita)](https://git.io/typing-svg)
+
+**Full-stack engineer specializing in scalable Node.js/FastAPI backends and high-performance React applications that automate workflows and drive 40% efficiency gains.**
+
+[Portfolio](https://antaryami-044.github.io) • [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156/) • [Email](mailto:antaryamibabu1234@gmail.com)
 
 ---
 
-# Hi, I’m <ins>Antaryami Sahu</ins> 👋  
-### <sub>Final-Year CS Student • Aspiring Software Development Engineer</sub>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=700&color=38BDf8&width=420&lines=Software+Engineer;Full-Stack+Developer;Backend+Focused;Startup+Ready)](https://git.io/typing-svg)
+## 📌 About Me
 
-[![GitHub Followers](https://img.shields.io/github/followers/Antaryami-044?label=Follow&style=social)](https://github.com/Antaryami-044)
-
----
-
-## 🚀 Software Development Engineer | Full-Stack Developer
-
-- 🎓 **B.Tech Computer Science @ NIST University (2026)** — **CGPA: 8.52**
-- 🧠 Strong foundation in **DSA, SDLC, and backend system design**
-- ⚙️ Passionate about building **scalable APIs, automation tools, and clean UIs**
-- 🏆 **35th National Rank** — Vibe Coding Challenge (High-Performance SPA)
-
-📫 **Contact**:  
-📧 [antaryamibabu1234@gmail.com](mailto:antaryamibabu1234@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156/)  
-💻 [GitHub](https://github.com/Antaryami-044)
+- **Engineering Graduate**: B.Tech in Computer Science from NIST University (*CGPA: 8.52/10*).
+- **Core Focus**: Designing RESTful microservices, optimizing database queries (MongoDB/MySQL), and engineering real-time data flow pipelines.
+- 🎯 **Career Goal**: Seeking a **Full Stack Developer** role to architect scalable web systems and deliver immediate business impact within high-growth teams.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 💻 Languages & Frameworks
-<img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
-<img src="https://img.shields.io/badge/Express.js-333?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi"/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+  <br>
+  <img src="https://img.shields.io/badge/React.js-333?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
+  <img src="https://img.shields.io/badge/Express.js-333?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Databases & Tools
-<img src="https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Postman-333?style=flat-square&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=figma&logoColor=F24E1E"/>
+### 🗄️ Databases, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/REST_APIs-333?style=flat-square&logo=fastapi&logoColor=009688"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Postman-333?style=flat-square&logo=postman&logoColor=FF6C37"/>
+</p>
 
 </td>
 </tr>
@@ -59,43 +61,68 @@
 
 ---
 
-## 📌 Key Projects
+## 🚀 Featured Production Projects
 
-### 🔹 Paste App — Collaborative Snippet Manager
-- Built a full-stack app using **React, Node.js, Express, MongoDB**
-- Supports **create, view, share, and manage code snippets** with responsive UI  
-🔗 Live: https://react-paste-app.netlify.app/
-
-### 🔹 Invoice QC Automation Service
-- Automated invoice validation using **Python & FastAPI**
-- Reduced manual verification effort by **~40%**
-
-### 🔹 Interactive AI Pipeline Builder
-- Designed a node-based workflow editor using **React + FastAPI**
-- Applied **graph algorithms (DAG validation)** to ensure pipeline correctness
+### 🔹 [Paste App — Real-Time Collaborative Snippet Platform](https://github.com/Antaryami-044/React-paste-app-main)
+**A secure full-stack web application designed for creating, sharing, and managing code snippets with zero data latency.**
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+- **Key Impact:** Architected CRUD REST APIs ensuring 100% data integrity across concurrent updates and optimized database execution speed.
+- **Key Impact:** Designed a fully responsive SPA UI with centralized Redux state management, eliminating unnecessary component re-renders.
 
 ---
 
-## 🏆 GitHub Achievements
-
-## 📊 GitHub Stats
-
-| 🔥 Streak | 📈 Stats |
-|---------|---------|
-| ![Streak](https://streak-stats.demolab.com?user=Antaryami-044&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&count_private=true&theme=tokyonight&hide=issues) |
-
-| 🌐 Languages | 🧩 Profile Summary |
-|-------------|------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antaryami-044&layout=compact&theme=tokyonight) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antaryami-044&theme=tokyonight) |
+### 🔹 [Invoice QC Automation Service](https://github.com/Antaryami-044/Invoice-QC-Service)
+**An automated quality-control pipeline built to validate structural invoice records and accelerate data auditing.**
+- **Tech Stack:** Python, FastAPI, JSON Serialization, Linux
+- **Key Impact:** Cut manual data verification time by **~40%** by executing automated multi-rule structural validation scripts.
+- **Key Impact:** Built an asynchronous ingestion pipeline converting verified records into standardized JSON for rapid local archival.
 
 ---
 
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-squircle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antaryamisahu8156/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-squircle&logo=gmail&logoColor=white)](mailto:antaryamibabu1234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-squircle&logo=github&logoColor=white)](https://github.com/Antaryami-044)
+### 🔹 [Smart Wearable ECG Signal Monitor](https://github.com/Antaryami-044)
+**An IoT-enabled health telemetry engine tracking and streaming real-time cardiac signals to cloud endpoints.**
+- **Tech Stack:** C++, Arduino Uno R4, Cloud Messaging API, Hardware Sensors
+- **Key Impact:** Implemented real-time digital signal filtering logic to remove sensor noise and output clean graphical telemetry.
+- **Key Impact:** Integrated automated cloud notification hooks to trigger immediate email alerts upon detecting critical heartbeat anomalies.
 
 ---
 
-> *Focused on writing clean, scalable code and building real-world software that delivers impact.*
+## 🏆 Key Achievements
+
+- 🥇 **TCS CodeVita Season 13**: Secured **Global Rank 10,769** among hundreds of thousands of competitive programmers worldwide.
+- 🏅 **Vibe Coding Challenge (BMIET)**: Secured **35th National Rank** for engineering a high-performance Single-Page Application (SPA).
+- 📜 **SAP Certified**: Completed SAP ABAP Backend Developer Certification (ABAP Cloud).
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+| 📈 Github Stats | 🔥 Contribution Streak |
+| :---: | :---: |
+| ![Antaryami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antaryami-044&show_icons=true&count_private=true&theme=tokyonight&hide_border=true) | ![Antaryami's Streak Stats](https://streak-stats.demolab.com?user=Antaryami-044&theme=tokyonight&hide_border=true) |
+
+| 🌐 Top Languages |
+| :---: |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antaryami-044&layout=compact&theme=tokyonight&hide_border=true&hide=html,css) |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I am actively interviewing for **Full Stack Developer** and **Software Development Engineer (SDE)** roles. Let's build scalable systems together!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/antaryamisahu8156/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:antaryamibabu1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Antaryami-044">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
