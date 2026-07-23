@@ -7,7 +7,7 @@
 
 **Full-stack engineer specializing in scalable Node.js/FastAPI backends and high-performance React applications that automate workflows and drive 40% efficiency gains.**
 
-[Portfolio](antaryami-portfolio.netlify.app) • [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156/) • [Email](mailto:antaryamibabu1234@gmail.com)
+[Portfolio](https://antaryami-portfolio.netlify.app) • [LinkedIn](https://www.linkedin.com/in/antaryamisahu8156/) • [Email](mailto:antaryamibabu1234@gmail.com)
 
 ---
 
