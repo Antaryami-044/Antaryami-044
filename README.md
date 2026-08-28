@@ -3,7 +3,11 @@
 # Hi 👋, I'm Antaryami Sahu
 ### Full Stack Developer & Backend Systems Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=1000&color=38BDF8&width=500&lines=Full+Stack+Developer;Node.js+%26+Python+Engineer;Scalable+API+Architect;Global+Rank+10%2C769+@+CodeVita)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=1000&color=38BDF8&width=500&lines=Full+Stack+Developer;Node.js+%26+Python+Engineer;Scalable+API+Architect;Global+Rank+10%2C769+@+CodeVita" alt="Typing SVG" />
+  </a>
+</p>
 
 **Full-stack engineer specializing in scalable Node.js/FastAPI backends and high-performance React applications that automate workflows and drive 40% efficiency gains.**
 
