@@ -63,7 +63,7 @@
 
 ## 🚀 Featured Production Projects
 
-### 🔹 [Paste App — Real-Time Collaborative Snippet Platform](https://github.com/Antaryami-044/React-paste-app-main)
+### 🔹 [Paste App — Real-Time Collaborative Snippet Platform](https://github.com/Antaryami-044/React-paste-app)
 **A secure full-stack web application designed for creating, sharing, and managing code snippets with zero data latency.**
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 - **Key Impact:** Architected CRUD REST APIs ensuring 100% data integrity across concurrent updates and optimized database execution speed.
@@ -71,7 +71,7 @@
 
 ---
 
-### 🔹 [Invoice QC Automation Service](https://github.com/Antaryami-044/Invoice-QC-Service)
+### 🔹 [Invoice QC Automation Service](https://github.com/Antaryami-044/invoice-qc-service-Assignment)
 **An automated quality-control pipeline built to validate structural invoice records and accelerate data auditing.**
 - **Tech Stack:** Python, FastAPI, JSON Serialization, Linux
 - **Key Impact:** Cut manual data verification time by **~40%** by executing automated multi-rule structural validation scripts.
@@ -79,7 +79,7 @@
 
 ---
 
-### 🔹 [Smart Wearable ECG Signal Monitor](https://github.com/Antaryami-044)
+### 🔹 [Smart Wearable ECG Signal Monitor](https://github.com/Antaryami-044/College-Major-Project)
 **An IoT-enabled health telemetry engine tracking and streaming real-time cardiac signals to cloud endpoints.**
 - **Tech Stack:** C++, Arduino Uno R4, Cloud Messaging API, Hardware Sensors
 - **Key Impact:** Implemented real-time digital signal filtering logic to remove sensor noise and output clean graphical telemetry.
