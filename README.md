@@ -19,7 +19,7 @@
 
 ## 📌 About Me
 
-- **Engineering Graduate**: B.Tech in Computer Science from NIST University (*CGPA: 8.52/10*).
+- **Engineering Graduate**: B.Tech in Computer Science from NIST University (*CGPA: 8.59/10*).
 - **Core Focus**: Designing RESTful microservices, optimizing database queries (MongoDB/MySQL), and engineering real-time data flow pipelines.
 - 🎯 **Career Goal**: Seeking a **Full Stack Developer** role to architect scalable web systems and deliver immediate business impact within high-growth teams.
 
